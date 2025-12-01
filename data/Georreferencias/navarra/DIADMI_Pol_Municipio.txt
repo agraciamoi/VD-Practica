@@ -1,0 +1,30 @@
+División Administrativa. Límites catastrales de los municipios de Navarra actuales:
+	 Atributo: FEATURE - Descripción: Identificador de feature (objeto geográfico) en el modelo de datos SITNA
+	 Atributo: CMUNICIPIO - Descripción: Código INE de municipio
+	 Atributo: MUNICIPIO - Descripción: Nombre oficial de municipio
+	 Atributo: ALTCAPITAL - Descripción: Altitud de la capital de un municipio (fuente: Nomenclátor del IEN)
+	 Atributo: ALTMEDIA - Descripción: Altitud media de un elemento
+	 Atributo: HABIT2003 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2003
+	 Atributo: HABIT2004 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2004
+	 Atributo: HABIT2005 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2005
+	 Atributo: HABIT2006 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2006
+	 Atributo: HABIT2007 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2007
+	 Atributo: HABIT2008 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2008
+	 Atributo: HABIT2010 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2010
+	 Atributo: HABIT2011 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2011
+	 Atributo: HABIT2012 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2012
+	 Atributo: HABIT2013 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2013
+	 Atributo: HABIT2014 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2014
+	 Atributo: HABIT2015 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2015
+	 Atributo: HABIT2016 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2016
+	 Atributo: HABIT2017 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2017
+	 Atributo: HABIT2018 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2018
+	 Atributo: HABIT2019 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2019
+	 Atributo: HABIT2020 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2020
+	 Atributo: HABIT2021 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2021
+	 Atributo: HABIT2022 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2022
+	 Atributo: HABIT2023 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2023
+	 Atributo: HABIT2024 - Descripción: Número de habitantes de un municipio, localidad, etc. en 2024
+	 Atributo: GEOM_AREA - Descripción: Superficie del objeto geográfico en metros cuadrados (valor calculado de la geometría)
+	 Atributo: GEOM_PERI - Descripción: Perímetro del objeto geográfico en metros (valor calculado de la geometría)
+	 Atributo: BEGINLIFE - Descripción: Fecha de inserción del dato en la base de datos SITNA

@@ -1,0 +1,8 @@
+Red hidrográfica. Cuencas hidrográficas:
+	 Atributo: FEATURE - Descripción: Identificador de feature (objeto geográfico) en el modelo de datos SITNA
+	 Atributo: CCUENCA - Descripción: Código de cuenca hidrográfica
+	 Atributo: CUENCA - Descripción: Nombre de una cuenca hidrográfica
+	 Atributo: VERTIENTE - Descripción: Nombre de la vertiente hidrográfica
+	 Atributo: GEOM_AREA - Descripción: Superficie del objeto geográfico en metros cuadrados (valor calculado de la geometría)
+	 Atributo: GEOM_PERI - Descripción: Perímetro del objeto geográfico en metros (valor calculado de la geometría)
+	 Atributo: BEGINLIFE - Descripción: Fecha de inserción del dato en la base de datos SITNA

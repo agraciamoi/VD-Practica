@@ -1,0 +1,5 @@
+﻿Cambio climático- Ind 7: Nº de empresas con Autorización Ambiental Integrada (AAI) en zona inundable:
+     Atributo: FEATURE - Descripción: Código de capa
+     Atributo: BARRIO - Descripción: Nombre del barrio
+     Atributo: AREA - Descripción: Área del barrio
+     Atributo: N_EMPRESAS - Descripción: Número de empresas con Autorización Ambiental Integrada (AAI) en zona inundable
